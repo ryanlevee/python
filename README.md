@@ -1,7 +1,6 @@
 # Python Games: Anagram Hunt and Math Facts
 
-run either file in terminal and have fun!
-<br><br>
+run either file in a terminal and have fun!
+
 anagram_hunt.py
-<br>
 math_facts.py
